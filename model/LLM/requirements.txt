@@ -1,0 +1,7 @@
+python-chess
+pandas
+datasets
+transformers
+peft
+trl
+bitsandbytes
